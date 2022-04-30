@@ -14,6 +14,6 @@ bhg = 'https://www.trustpilot.com/review/bankershealthcaregroup.com'
 
 The reviews get stored to a local sqlite database.
 
-Then in messing around text minig.R, I apply some sentiment analysis techniques that I learned in tidytext mining.
+Then in messing around text mining.R, I apply some sentiment analysis techniques that I learned in tidytext mining.
 
 Most of the interesting information is contained in plots.R
